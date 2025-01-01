@@ -31,10 +31,11 @@ Developed a comprehensive customer performance report.
 Conducted an in-depth comparison of market performance and sales targets. 
 
 💫Key Achievements: 
+
 Enabled businesses to monitor and evaluate their sales activities effectively. 
+
 Identified critical sales patterns and tracked essential key performance indicators(KPIs)
-Supported effective communication with stakeholders through clear and insightful 
-reports. 
+
 Assisted in determining optimal customer discounts, facilitating consumer 
 negotiations, and pinpointing promising international expansion opportunities. 
 
@@ -51,6 +52,7 @@ Evaluated financial performance comprehensively, facilitating informed decisionm
 
 Supported effective communication with stakeholders through clear and insightful 
 reports.
+
 Contributed to benchmarking against industry peers and established a foundation for 
 budgeting and forecasting. 
 
