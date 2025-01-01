@@ -2,7 +2,8 @@
 💾 Problem Statement: 
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and 
 computers with a global reach, faces the challenge of optimizing sales and improving 
-net gross margins. 
+net gross margins.
+
 💾Project Goal: 
 This project tackles the analysis of a vast dataset comprising over half a million records 
 of unorganized sales data, demanding extensive ETL efforts. Objective is to unearth 
