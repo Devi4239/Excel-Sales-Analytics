@@ -58,13 +58,20 @@ budgeting and forecasting.
 
 💫Technical Skills:
 
-Proficient in ETL methodology (Extract, Transform, Load). 
+Proficient in ETL methodology (Extract, Transform, Load).
+
 Skilled in generating date tables using Power Query. 
+
 Experienced in deriving fiscal months and quarters. 
+
 Proficient in establishing data model relationships with Power Pivot. 
+
 Skilled in using DAX to create calculated columns.
 
 💫Soft Skills: 
-Possess a refined understanding of Sales and Finance Reports. 
+
+Possess a refined understanding of Sales and Finance Reports.
+
 Capable of designing user-centric reports with empathy in mind. 
+
 Experienced in optimizing report generation through meticulous fine-tuning. 
