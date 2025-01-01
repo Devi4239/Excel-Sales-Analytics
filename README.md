@@ -35,13 +35,29 @@ Enabled businesses to monitor and evaluate their sales activities effectively.
 Identified critical sales patterns and tracked essential key performance indicators(KPIs)
 Supported effective communication with stakeholders through clear and insightful 
 reports. 
+Assisted in determining optimal customer discounts, facilitating consumer 
+negotiations, and pinpointing promising international expansion opportunities. 
 
+📘Project 2: Financial Analysis and Reporting 
+ 
+💫Objective: 
+
+Created detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months. 
+Produced P&L reports segmented by Markets.
+
+💫Key Achievements: 
+
+Evaluated financial performance comprehensively, facilitating informed decisionmaking.
+
+Supported effective communication with stakeholders through clear and insightful 
+reports.
 Contributed to benchmarking against industry peers and established a foundation for 
 budgeting and forecasting. 
 
 💾Technical and Soft Skills
 
-💫Technical Skills: 
+💫Technical Skills:
+
 Proficient in ETL methodology (Extract, Transform, Load). 
 Skilled in generating date tables using Power Query. 
 Experienced in deriving fiscal months and quarters. 
