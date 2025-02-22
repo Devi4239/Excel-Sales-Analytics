@@ -1,10 +1,10 @@
 # Excel-Sales and Finance Analytics Project of AtliQ Hardwares 
-💾 Problem Statement: 
+## Problem Statement: 
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and 
 computers with a global reach, faces the challenge of optimizing sales and improving 
 net gross margins.
 
-💾Project Goal: 
+## Project Goal: 
 This project tackles the analysis of a vast dataset comprising over half a million records 
 of unorganized sales data, demanding extensive ETL efforts. Objective is to unearth 
 strategic insights that will empower AtliQ Hardwares to make informed decisions and 
@@ -12,7 +12,7 @@ effectively track key performance indicators (KPIs). The ultimate aim is to driv
 substantial improvements in the company's performance in the years ahead, centered 
 around net sales and net gross margin.
 
-💾Why this project matters: 
+## Why this project matters: 
 Unlocking the potential within this dataset holds the key to maximizing AtliQ 
 Hardwares' sales and profitability. 
 
@@ -22,9 +22,9 @@ Join me on this journey to uncover the hidden treasures within AtliQ Hardwares' 
 and finance data, enhancing their global market presence and fianancial health. 
 Welcome to data- driven transformation!
 
-💾Project Highlights 
+#Project Highlights 
 
-📘Project 1: Sales Analysis and Reporting
+## Project 1: Sales Analysis and Reporting
 
 💫Objective: 
 Developed a comprehensive customer performance report. 
@@ -39,7 +39,7 @@ Identified critical sales patterns and tracked essential key performance indicat
 Assisted in determining optimal customer discounts, facilitating consumer 
 negotiations, and pinpointing promising international expansion opportunities. 
 
-📘Project 2: Financial Analysis and Reporting 
+## Project 2: Financial Analysis and Reporting 
  
 💫Objective: 
 
@@ -56,7 +56,7 @@ reports.
 Contributed to benchmarking against industry peers and established a foundation for 
 budgeting and forecasting. 
 
-💾Technical and Soft Skills
+## Technical and Soft Skills
 
 💫Technical Skills:
 
@@ -70,7 +70,7 @@ Proficient in establishing data model relationships with Power Pivot.
 
 Skilled in using DAX to create calculated columns.
 
-💫Soft Skills: 
+ Soft Skills: 
 
 Possess a refined understanding of Sales and Finance Reports.
 
